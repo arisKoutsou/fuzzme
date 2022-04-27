@@ -1,3 +1,4 @@
+project: fuzzme
 target: fuzzme
 cmds:
   - cmd: /fuzzme @@
